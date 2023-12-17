@@ -1,7 +1,7 @@
 ---
 layout: post
 title: git push上传到GitHub时报错“Permission to repository denied”的解决方案
-categories: git
+categories: Git
 description: 解决问题一次记录
 keywords: git, 报错
 ---
