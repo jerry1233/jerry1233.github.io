@@ -1,6 +1,6 @@
 ---
 layout: post
-title: django学习记录
+title: django学习记录（持续更新中）
 categories: Django
 description: django基础教程
 keywords: django, python
