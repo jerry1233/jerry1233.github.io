@@ -168,13 +168,13 @@ XXXAppConfig在应用目录，apps.py里查看
 
 ```python
 
-from django.contrib import admin
-from django.urls import path,include
-import sgk_app.views
-urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', sgk_app.views.hello),
-]
+	from django.contrib import admin
+	from django.urls import path,include
+	import sgk_app.views
+	urlpatterns = [
+	    path('admin/', admin.site.urls),
+	    path('', sgk_app.views.hello),
+	]
 ```
 
 ## 模型层介绍
