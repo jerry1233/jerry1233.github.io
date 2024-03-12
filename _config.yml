@@ -168,10 +168,10 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: jerry1233/jerry1233.github.io
+    repo-id: R_kgDOJzJ7Bg
     category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    category-id: DIC_kwDOJzJ7Bs4Cd6R5
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

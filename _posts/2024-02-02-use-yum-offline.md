@@ -45,7 +45,7 @@ df -h
 ##备份/etc/yum.repos.d文件至备份文件夹
 
 ```
-省略...
+cp -r /etc/yum.repos.d /etc/yum.repos.d_bak
 ```
 
 ##创建repo文件并存放
