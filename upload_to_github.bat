@@ -1,4 +1,4 @@
-git config --global http.proxy http://127.0.0.1:8118
+git config --global http.proxy http://127.0.0.1:9910
 git add .
 git commit -m "firest commit"
 
